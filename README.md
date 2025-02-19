@@ -1,1 +1,1 @@
-# lab1
+# Практическая работа №1. Работа с Jupyter Notebook, JupyterLab и Google Colab
